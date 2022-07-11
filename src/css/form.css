@@ -1,0 +1,55 @@
+.form{
+    width: 40%;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.form__p{
+    float: right;
+    font-weight: bold;
+    color: #495C83;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.form__input{
+    float: right;
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    margin:10px 0;
+    background-color: #C8B6E2;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.form__textarea{
+    width: 100%;
+    height: 140px;
+    padding: 10px;
+    border-radius: 8px;
+    margin:10px 0;
+    background-color: #C8B6E2;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: bold;
+    resize: none;
+}
+
+.form__button{
+    width: 100%;
+    padding: 10px;
+    border-radius: 8px;
+    margin:10px 0;
+    background-color: #495C83;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: bold;
+}

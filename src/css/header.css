@@ -1,0 +1,33 @@
+.header{
+    background-color: #495C83;
+    position: sticky;
+    top: 0;
+    padding: 20px;
+}
+
+.header__img{
+    width: 25px;
+}
+
+.header__h1{
+    display: inline;
+    font-size: 25px;
+    margin-left: 4px;
+    color: #C8B6E2;
+    font-weight: bold;
+}
+
+.header__input{
+    float: right;
+    width: 40%;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #C8B6E2;
+    border: none;
+    outline: none;
+    color: whitesmoke;
+    font-size: 17px;
+    font-weight: bold;
+    outline: none;
+    border: 3px dashed #7A86B6;
+}
