@@ -13,7 +13,7 @@ class NoteList extends React.Component {
         <h1 className="list__h1">List Note</h1>
         <div
           className="list__container">
-          {filter.length > 1 ? (
+          {filter.length > 0 ? (
             datas
               .filter((data) =>
                 data.title.toLowerCase().includes(query.toLowerCase())
